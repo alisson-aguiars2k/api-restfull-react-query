@@ -13,7 +13,7 @@ function App() {
   return (
     <main>
       <ul>
-        { isFetching && <p>Carrecando...</p>}
+        { isFetching && <h1>Carrecando...</h1>}
         {repositories?.map((repo) => {
           return (
             <li key={repo.full_name}>

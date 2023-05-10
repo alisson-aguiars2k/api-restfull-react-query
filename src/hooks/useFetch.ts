@@ -30,7 +30,3 @@ export function useFetch<T = unknown>(
   }, []);
   return { data, error, isFetching };
 }
-// O then é executado de de sucesso
-// catch é executado quando da erro.
-// finally independente se vai da erro ou não
-// 2 bibliotecas para cosumir dados SWR(state while revalidate) é um controle de caches. e a ReactQuery para consumo de api restful
