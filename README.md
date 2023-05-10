@@ -1,13 +1,18 @@
+
 # Consumo de APIs RESTful no React com a biblioteca React Query e Axios.
 
 ## Descrição do Projeto:
 
 ### A proposta do projeto foi cosumir APIs RESTful no React da maneira correta, utilizando a biblioteca React Query;
 
+
 ### App.tsx
 ![](./public/images/app.png)
 ### useFetch.ts
 ![](./public/images/useFetch.png)
+=======
+<br>
+
 
 ## O que é React Query?
 
@@ -28,3 +33,6 @@
 ## Creditos:
 
 ### Este projeto foi desenvolvido em aula com o professor Diego Fernandes, Rocketseat.
+
+
+
